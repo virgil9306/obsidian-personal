@@ -7,4 +7,4 @@ I want to keep self-educating. But I must remember that I'm not here to "compete
  * 血の糧（詩集）(Liked by N'buna)
  * Jung
 	 * a
-* 
+* https://hyogen.info/groupw/list/8786
