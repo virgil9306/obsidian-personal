@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43496f89bb66842f",
+        "id": "6b1c9ddc374a6787",
         "type": "tabs",
         "children": [
           {
-            "id": "578759ad7410704f",
+            "id": "517c36e64cbac540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Music/Songwriting/Song Notes/Void.md",
+                "file": "Projects/Writing/The Last Human/6. Act 1, Chapter 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Void"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e400cadbc0742dc4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b3c66442bf1f2db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Music/Songwriting/Inspiration and Study/作詞.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "作詞"
+              "title": "6. Act 1, Chapter 3"
             }
           }
         ]
@@ -60,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -97,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ff5de68961c6a36",
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Music/Songwriting/Song Notes/Void.md",
+                "file": "Projects/Writing/The Last Human/Details/Characters/kinari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Void"
+              "title": "Backlinks for kinari"
             }
           },
           {
@@ -133,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Music/Songwriting/Song Notes/Void.md",
+                "file": "The Last Human/3. Act 1, Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Void"
+              "title": "Outgoing links from 3. Act 1, Chapter 1"
             }
           },
           {
@@ -160,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Music/Songwriting/Song Notes/Void.md"
+                "file": "The Last Human/3. Act 1, Chapter 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Void"
+              "title": "Outline of 3. Act 1, Chapter 1"
             }
           },
           {
@@ -175,9 +155,32 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "6b06b944f38c2e8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c3c82c6adf2b0172",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,35 +195,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "578759ad7410704f",
+  "active": "517c36e64cbac540",
   "lastOpenFiles": [
-    "Projects/Music/Songwriting/Inspiration and Study/作詞.md",
-    "Projects/Music/Songwriting/Song Notes/Void.md",
-    "Projects/Music/Songwriting/Inspiration and Study/Sources of Inspiration and Study.md",
-    "Projects/Music/Songwriting/Song Notes/電気羊の夢.md",
-    "Projects/Music/3. Content Creation Process.md",
-    "Projects/Music/Songwriting/Inspiration and Study/Chords.md",
+    "Projects/Writing/The Last Human/8. Act 1, Chapter 4.md",
+    "Projects/Writing/The Last Human/6. Act 1, Chapter 3.md",
+    "Projects/Writing/The Last Human/7.  Dream Sequence 2.md",
+    "Projects/Writing/The Last Human/3. Act 1, Chapter 1.md",
+    "Projects/Writing/The Last Human/4. Act 1, Chapter 2.md",
+    "Projects/Writing/The Last Human/9. Act 1, Chapter 5.md",
+    "Projects/Writing/The Last Human/10.  Dream Sequence 3.md",
+    "Projects/Writing/The Last Human/11. Act 2, Chapter 1.md",
+    "Projects/Writing/The Last Human/Details/Characters/Kinari (Robot).md",
+    "Projects/Music/Songwriting/Song Notes/myth-and-legend/plains-of-wuzhang.md",
+    "Projects/Music/Songwriting/Song Notes/myth-and-legend/janne-darc.md",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318013754.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318013535.png",
+    "Projects/Writing/The Last Human/Details/Characters/Otousan - von Braun, Friedrich Gustav Emanuel.md",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318012301.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318012141.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318012027.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318011617.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318011605.png",
+    "Projects/Writing/The Last Human/Details/Notes.md",
+    "Projects/Writing/The Last Human/Details/attachments/Pasted image 20250318004839.png",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318004933.png",
+    "Projects/Writing/The Last Human/Details/attachments",
+    "Projects/Writing/The Last Human/Details/Characters/attachments",
+    "Projects/Writing/The Last Human/Details/Characters/attachments/Pasted image 20250318011005.png",
+    "Projects/Writing/The Last Human/Details/Characters/Kinari (Human).md",
+    "Templates/Novel/Character_Template.md",
+    "Projects/Writing/The Last Human/1. Prologue.md",
+    "Projects/Writing/The Last Human/5. Dream Sequence 1.md",
     "Projects/Music/Songwriting/Songwriting Process.md",
-    "Projects/Music/Songwriting/Overview.md",
-    "Projects/Music/2. Process.md",
-    "Projects/Music/Songwriting/Release/Release Notes.md",
-    "Templates/Songwriting Notes Template.md",
-    "Templates",
+    "Projects/Music/Songwriting/Song Notes/myth-and-legend",
     "Projects/Music/1. Overview.md",
-    "Projects/Music/Songwriting/Song Notes/Falling Stars.md",
-    "Projects/Music/Songwriting/Song Notes/Last Chance.md",
-    "Projects/Music/Songwriting/Release",
-    "Projects/Music/Songwriting/Inspiration and Study",
-    "Projects/Music/Songwriting/Song Notes",
-    "Projects/Music/Songwriting",
-    "Projects/Overview.md",
-    "Projects/Acting/1. Overview.md",
-    "Projects/Acting",
-    "Projects/Music",
-    "Projects",
-    "Welcome.md"
+    "Projects/Music/2. Process.md",
+    "Projects/Music/3. Content Creation Process.md",
+    "Projects/Writing/The Last Human/Details/Plot - The Last Human.md",
+    "Projects/Writing/The Last Human/Details/World - The Last Human.md",
+    "Projects/Music/4. Strategy.md",
+    "Projects/Music/Songwriting/Inspiration and Study/Chords.md",
+    "Projects/Music/Songwriting/Inspiration and Study/Musical Structure (KKRM).md",
+    "Projects/Writing/The Last Human/Details/Characters",
+    "Projects/Writing/The Last Human/Details/Characters",
+    "Templates/Novel",
+    "Projects/Writing/The Last Human/Details",
+    "TemplateScripts/Vertica.js.sb-29b7c911-efdXU8",
+    "TemplateScripts/Vertica.js",
+    "TemplateScripts"
   ]
 }

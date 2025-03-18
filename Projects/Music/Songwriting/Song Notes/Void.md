@@ -55,139 +55,38 @@ Emotional outline
 
 * Intro (Piano representing rain and a calm melancholy landscape; grey sky represented by droning synths, like a fog) -- no lyrics
 * Verse A (イメージ・抽象)
-	*  秋に染まった落ち葉が / 春の夢を見るように眠る
-	*  窓に(染みついた)思い出が / 雨に洗い流され
-		* 雨降ってんの？Do we need this line?? Is the rain important in evoking an image? I think it is, even if we don't reference it later. By the end, does it stop raining? Does anyone care?
-	*  微かな記憶が / 流れゆく時間 / に連れ去られ
-	  灰色の空に吸い込まれる
+	* 秋に染まった落ち葉が / 春の夢を見るように眠る
+	* 窓に染みついた思い出が / 雨に洗い流されてく
 * Verse A (22小節目) ~ Prechorus
-	* 何度も見てきた気がした / 
-	* 輪廻を駆け巡って / 交わる運命を / 
-	* 喉まで出かかる名前 / 届きそうで届かぬ指先
+	* 微かな記憶が / 灰色の空に / 吸い込まれ
+	* 喉まで出かかるその名ha / 空白(void)に消えて
 * Prechorus （抽象ー＞具体）
-  -> REWRITE THIS ENTIRELY, we need to point out who the hell the person mentioned above is, detailed
-	* なのに、どうして＿＿＿？ / 過去に置いてきたのか？ / この世界線は出会えない定めなのか
-	* 風に耳を傾け・唸る声に・君の呟きを・少しでも運んでくれることを願って
-	* 天に伸ばした手が・目を閉じれば・recall if I ever held your hand (or not)
-	* I surrender myself to the cold of the approaching winter, so that I may recall if I ever felt the warmth of (your/that) embrace
+	* 何度探しに / 迷い込んでも
+	* 重くなる鼓動に / 息が絶える
 * Chorus A (感情)
-	* 君が居たはずの場所のvoid(空白)を
-	* 何度探しに迷い込んでも
-	* 重くなる鼓動に息が詰まる
-		* Tough to transition out of this
-	* 君とすれ違っても / きっと僕は / 気づかないだろう
-		* I don't really like this line, it's too emo
-	* なぜなら…もう何も思い出せない
-		* This line doesn't feel beautiful; maybe pull the first line of Verse B into this chorus, so that the Verse B is just focused on transitioning to the Bridge
+	* 何度も見てきた / そんな気がしたんだ
+	* 輪廻を駆け巡る / 永久(とこしえ)に絡む運命
+	* 抱きしめてくれた・包んでくれた / 霜月のように灯る(微)笑み
+	* 朝日に消されても / 居残る（その）温もり
 * Verse B (抽象)
-	* I'm stuck on the waking side of a dream that I want to get back to.
-	* 夢幻を辿って走り続けば、巡り合えるだろう？
+	* だから / 夢幻を辿って 
+	* 巡り / 会わずとも
+	* 彷徨 / いながらでも / 君を / 探し続けるよ
 * Bridge (感情)
-	* *Uplifted, SALVATION (peak)*
-	* A (silver) beam shines from between the clouds
-		* The void speaks, it must be you (空白？ w/ ボイド as 読み方?)
-	* No, I cannot hear your voice
-		* No, I cannot feel your touch
-			* No, I may never know your warmth
-	* Perhaps all I know about you to disappear into oblivion
-	* それでも, I know now
-	* That you hadn't left me
-	* That this feeling of longing
-	* It must have lost something
-		* That was once found
-	* It must have known you
-		* In order to feel your absence
-	* So I carry you always within me, within this void that is shaped like you
+	* 失うことが一度 / 見つかったことが / あるから
+	* 孤独(<どく>)を感じること / 側に居た証明 / なんだ
+	* 胸の奥の穴 / それが君の姿
+	* ずっと僕の中 / 生きてくれたんだ
 * Chorus B (抽象)
-	* *Acceptance -- bittersweet, full of love, scenery changes*
-	* I may not know your laugh
-		* But when I'm happy I know my joy must be shared by you
-	* I may not know if you cried
-		* But I think of you when I feel the rain
-	* I don't know the warmth of your touch
-		* But I think of you sitting in front of the winter fireplace
-	* I hear you calling out from the void
-		* void(空白)に耳をすませば / 聞こえなくても感じる声
-	* Where you are always, inside of me
+	* そっと耳をすませば / やっと聞こえてきたんだ
+	* 聞いたことのない声 / 木漏れ日のような響き
+	* 胸に手(を)当てば / 温もりが抱きしめてくれた
+		* Need sth better than 温もりが but it's enough もら so keep it for now
+	* voidの中に灯る(光る)かしき瞳
 * Outro (抽象→具体)
-  (主人公視点)
-	* 秋に染まった落ち葉が / 永遠の夢を見るように眠る
-	* 変わりゆく彩りを見送って
+	* 雪に染まった落ち葉が / 永遠の夢を見るように眠る
+	* 変わりゆく彩り(を)見送って
 	* 白い息を吐く
-##### Lyrical v1
-(1. find the gist of the words you want to use; 2. make it into rhymes -- emphasis slant rhymes, according to the melody; 3. fine-tune)
-
-* Intro (Piano representing rain and a calm melancholy landscape; grey sky represented by droning synths, like a fog) -- no lyrics
-* Verse A (イメージ・抽象)
-	* Autumn leaves hibernate on the ground, dreaming of springs past
-	  秋に染まった落ち葉 / 春の夢を見ているように眠り
-	* The pattering rain washes the dusty memories off of the windows
-	  窓に(染みついた)思い出が / 雨に洗い流され
-	* (As) my memory of your face disappears into the overcast sky
-	  微かな記憶が / 流れゆく時間に連れ去られ
-	  灰色の空に吸い込まれる
-	  
-* Verse A (22小節目) ~ Prechorus
-	* Your name is on the tip of my tongue, your hand just out of reach of my fingertips
-	  喉まで出かかる名前 / 届きそうで届かぬ / その指先
-	* I feel that you have known me forever（永遠、とわ）: our fates intertwined like a destiny, repeated in every life before this one.
-	  輪廻を駆け巡って / 交わる運命を / 何度も見てきた気がした
-	  
-* Prechorus （抽象ー＞具体）
-	* Yet, why do you elude me now? Did I leave you in the past? Is this world one where we're destined to be apart?
-  なのに、どうして＿＿＿？ / 過去に置いてきたのか？ / 今世（今回）は出会えない定めなのか
-	* Sometimes I listen to the howling winds, hoping that they'll carry even a whisper of yours to me
-	  風に耳を傾け・唸る声に・君の呟きを・少しでも運んでくれることを願って
-	* Sometimes I hold my hand to the rain, closing my eyes, hoping that I can remember holding (your/that) hand
-	  天に伸ばした手が・目を閉じれば・recall if I ever held your hand (or not)
-	* I surrender myself to the cold of the approaching winter, so that I may recall if I ever felt the warmth of (your/that) embrace
-* Chorus A (感情)
-	* There is a void inside of me
-	  君が居たはずの場所が空白に
-	* Where I believe you used to be
-	  何度も迷い込んでしまう
-	* When I try to recall
-	  思い出そうとする度に / 遠ざかってしまいそう
-	* (But) Even if I saw you, I don't think my eyes would recognize you.
-	  すれ違ったとしても、分からないだろう
-	* Because... I can't remember anything about you.
-	  どんなに頑張っても、(a void that I can't pull anything out of)
-* Verse B (抽象)
-	* *Before: Realization, eureka moment, after having done all that searching; After: Transition to sudden bridge;*
-	* I'm stuck on the waking side of a dream that I want to get back to.
-	* Where are you?
-* Bridge (感情)
-	* *Uplifted, SALVATION (peak)*
-	* A (silver) beam shines from between the clouds
-		* You call out to me from the void (空白？ w/ ボイド as 読み方?)
-	* No, I cannot hear your voice
-		* No, I cannot feel your touch
-			* No, I may never know your warmth
-	* Perhaps all I know about you to disappear into oblivion
-	* それでも, I know
-	* That this void inside me
-	* The feeling of longing
-	* Must have lost something
-		* That was once found
-	* Must have known you
-		* In order to feel your absence
-	* So I carry you always within me, within this void that is shaped like you
-* Chorus B (抽象)
-	* *Acceptance -- bittersweet, full of love, scenery changes*
-	* Autumn leaves hibernate on the ground
-	* 変わりゆく彩り
-		* 染まりゆく世界
-	* 呟く雨に濡れ、春を待ち
-	* 水溜まりに映る微笑む君
-* Outro (具体->感情) (key change back to original key, hinting at the continued state of melancholy, yet a hint of hopefulness at the end with an upward motion in the melody, a variation on the motif used in the chorus)
-	* I may not know your laugh
-		* But I think of you when I am happy
-	* I may not know if you cried
-		* But I think of you when I feel the rain
-	* I don't know the warmth of your touch
-		* But I think of you sitting in front of the winter fireplace
-	* I hear you calling out from the void
-	* Where you are always, inside of me
 #### Other Notes
 * I will try to approach this song imagining if I'm Hyde sometimes and imagining if I'm Yorushika or any of the members thereof. I think that might give me inspiration or perspectives that I don't have within myself without, well, it's more of like a, what would this artist do? And I'll try to use that to guide me. Because my natural inclinations will come out within that.
 
@@ -215,3 +114,13 @@ Emotional outline
 	* (I must not end this with the same last line as Season's Call by HYDE which is "Because I always feel you in me" -- the concept and its origin is totally different, and not intended to plagiarize, so I must be careful to keep a distinction, even though that final sentiment is probably equivalent)
 	* (Old outro; kept as reference) I don't remember the sound of your voice, but I imagine it sounds like a gentle wind that caresses my cheek. I don't remember the warmth of your touch, but I know that it feels like the warmth of a fireplace in the dead of winter. I don't know what to say when I call out your name, but I know that you're never far. You're right here inside of me. This hole, this void within me is in the shape of you. あなたの形。I will say it in Japanese or something, because Shape of You is a popular pop song that has absolutely nothing to do with this, and I don't want it to overlap in search results or anything But most importantly I hate that song because it is so shallow.
 		* And I know that you live on, inside the shape of the void inside of me
+	* The bridge is the most important part of the whole song -- even more than the chorus. It's the turning point (ビートが変わる瞬間) where the main character proves to himself that she exists -- he searches for where she is, or how to know her, and he finds out: even if that proof is a bit desperate
+		* Notes about the Bridge:
+			* The bridge captures both the character's intense yearning and the way he interprets his loneliness as proof of her past presence. The phrase "失うことが一度 / 見つかったことがあるから" suggests a kind of circular logic: he’s using the very feeling of loss as evidence of something once gained. This reasoning implies a sort of desperation—an almost obsessive need to validate her existence through his own emotional void. 
+			* The hint of possible delusion is subtly woven in. For a casual listener, it reads as a bittersweet acceptance; for someone delving deeper, it reveals the main character’s reliance on his feelings as the only “proof” she was ever there. The interpretation that he might be creating meaning to cope with his loneliness could emerge during a closer lyrical analysis, especially with lines like "孤独を感じること / 側に居た証明なんだ," which invite the listener to question whether he’s grasping at an imagined connection. 
+			* This layered ambiguity feels very intentional and adds depth, allowing different levels of interpretation without sacrificing the song's primary emotional impact.
+			* 聞き流してるとなとなく「居ないことが寂しい、そのできた空白の痛みを感じて傷口ごと愛しくなったんだね！」と表面的に感じ取れるけど、実際はそうじゃないんだよね…無理矢理に存在証明を作り上げようとしている、自分を納得させるために。少し狂気で執着が潜んでいる言葉。
+				* ここだけは変更したくないかな、曲の軸となっているから
+* ゴミ箱 
+	* それでも、your warm smile bathed in the 宵月 is a refuge (use metaphor? __ を溶かす , 安定剤のような, warm from the freezing world -- maybe borrow or take やがて凍りつく世界を眺める etc.) that I cannot forget
+		* e.g. やがて凍りつく世界でも温かく包む宵月を浴びた微笑み

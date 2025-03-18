@@ -1,5 +1,9 @@
 [
   "obsidian-relative-line-numbers",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "japanese-novel-ruby",
+  "templater-obsidian",
+  "dbfolder",
+  "metadata-menu"
 ]
